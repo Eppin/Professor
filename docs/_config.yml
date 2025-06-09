@@ -47,12 +47,14 @@ defaults:
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.0"
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Include for processing.
 include: ["_pages"]
