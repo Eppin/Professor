@@ -1,9 +1,9 @@
 ---
-layout: single
 author: Professor
 title:  "The Living Pokédex Challenge Begins!"
 date:   2025-06-09 12:38:29 +0200
-categories: update living-pokedex scarlet violet
+categories: living-pokedex scarlet violet
+tags: update
 ---
 Welcome to the start of an epic adventure! I've always loved the world of Pokémon, and I'm now embarking on a personal quest I've dubbed the "Ultimate Living Pokédex Challenge": to create a Living Pokédex for *every main Pokémon game*. That means catching, and keeping, one of every single Pokémon species, all meticulously organized. It's a marathon, not a sprint, but I'm excited to document every step!
 

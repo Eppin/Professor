@@ -1,7 +1,6 @@
 ---
-layout: single
-title: About
 permalink: /about/
+title: "About"
 ---
 
 Welcome to my Living Pokédex Journey!

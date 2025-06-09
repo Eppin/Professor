@@ -1,3 +1,4 @@
 Professor:
   name        : "Professor"
   bio         : "Welcome to my Pokémon research lab! Here, we explore the fascinating world of Pokémon, aiming to understand every species."
+  avatar      : "/assets/images/bio-photo.jpg"
