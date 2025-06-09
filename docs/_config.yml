@@ -22,7 +22,7 @@ title: My Living Pokédex Journey
 description: >- # this means to ignore newlines until "baseurl:"
   Follow my progress as I build a complete Living Pokédex for every main Pokémon game!
   Discover tips, challenges, and milestones along the way.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Professor/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
