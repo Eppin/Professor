@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: single
+author: Professor
 title:  "The Living Pokédex Challenge Begins!"
 date:   2025-06-09 12:38:29 +0200
 categories: update living-pokedex scarlet violet

@@ -25,10 +25,37 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/Professor/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+defaults:
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
+
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+# Include for processing.
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
